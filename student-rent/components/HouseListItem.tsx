@@ -1,5 +1,4 @@
-import { IHouse } from "../interfaces/IHouse";
-
+import { IHouse } from "@/app/interfaces/IHouse";
 
 export default function HouseListItem({ house }: { house: IHouse}) {
     return (
